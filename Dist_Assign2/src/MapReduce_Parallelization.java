@@ -21,6 +21,7 @@ public class MapReduce_Parallelization {
 	
 	public static void main(String[] args) throws InterruptedException {
 	
+		// kevin Cusack
 		/*Map<String, Integer> countByWords = new HashMap<String, Integer>();
 	    Scanner s = null;
 	    
